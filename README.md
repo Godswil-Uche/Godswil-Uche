@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Godswil-Uche
-- 👀 I’m a Front-End Developer with aim to go into Full-Stack Development
-- 💞️ I love solving problems, and suggesting ideas
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on projects so as to boost my learning of React
+I'm an aspiring Python Developer and Data Analytics enthusiast with a passion for building practical applications that solve real-world problems. I enjoy learning by creating projects that combine programming, data analysis, and user-friendly interfaces.
+
+My current learning journey focuses on developing strong foundations in Python programming while gradually expanding into data science, analytics, and interactive application development.
 
 <!---
 Godswil-Uche/Godswil-Uche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
